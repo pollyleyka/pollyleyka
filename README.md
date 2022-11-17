@@ -1,7 +1,7 @@
 ## ☺︎  Hello, I’m Polina <br>
  Frontend developer <br>
  
- 
+
  <img src="https://allhacked.com/up/2019/03/hello-world.gif" width='300px'>
 
   **Stack:**
