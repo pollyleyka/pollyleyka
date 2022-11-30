@@ -1,17 +1,13 @@
-## ☺︎  Hello, I’m Polina <br>
- Frontend developer <br>
+## ☺︎  Hello, I’m Polina
+
+ Frontend developer
+ Hexlet student (frontend 4 module)
  
-
- <img src="https://allhacked.com/up/2019/03/hello-world.gif" width='300px'>
-
-  **Stack:**
- * HTML/CSS
- * Javascript
- * React
+ * HTML/CSS, Javascript
  
 📫 Contact me in [telegram](https://t.me/Pollyaley)
 
-
+<!-- 
 ### My progects:
 
 
@@ -32,6 +28,6 @@ Webpage for Moscow clinic *Docmed*. Decktop version. Also my first full page. Us
 
 * #### mobile-doc-med
 Mobile version of *Docmed* clinic page.<br>
-##### Look at this [mobile page](https://pollyleyka.github.io/mobile-doc-med/).
+##### Look at this [mobile page](https://pollyleyka.github.io/mobile-doc-med/). -->
 
 
