@@ -2,19 +2,24 @@
 
  Frontend developer
  Hexlet student (frontend 4 module)
+ open to work
  
- * HTML/CSS, Javascript
+ * HTML/CSS, Javascript, Git, TDD
  
 📫 Contact me in [telegram](https://t.me/Pollyaley)
+let's make a connection on [Linkedin}(https://www.linkedin.com/in/polina-gordeeva-frontend/)
 
-<!-- 
-### My progects:
+Now I'm study frontend in [Hexlet](https://ru.hexlet.io) and already done two projects
 
+* #### _Brain Games_
+Is a set of five console games inspired by popular mobile brain-pumping apps.<br>
+more details in [repo](https://github.com/pollyleyka/frontend-project-lvl1)
 
-* #### js-learning
-Website registration form. The project implements user password validation - checking by parameters of length, presence of required characters, matching of password fields and password confirmation. Also minimal field validation at the HTML level. <br>
-##### Look at this [page](https://pollyleyka.github.io/js-learning/).
+* #### _Difference calculator_
+Is a CLI utility for calculating differences between two data structures.<br>
+more details in [repo](https://github.com/pollyleyka/frontend-project-46)
 
+There are also projects wich I did when I was learning on my own. There are more about HTML/CSS and wisual content on webPages.
 
 * #### adaptiv-docmed
 Adaptive webpage for Moscow clinic *Docmed*. Using component approach. <br>
@@ -25,9 +30,5 @@ Adaptive webpage for Moscow clinic *Docmed*. Using component approach. <br>
 Webpage for Moscow clinic *Docmed*. Decktop version. Also my first full page. Using Java Script. <br>
 ##### Look at this [web page](https://pollyleyka.github.io/promo-doc/) in browser.
 
-
-* #### mobile-doc-med
-Mobile version of *Docmed* clinic page.<br>
-##### Look at this [mobile page](https://pollyleyka.github.io/mobile-doc-med/). -->
 
 
