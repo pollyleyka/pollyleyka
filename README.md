@@ -1,13 +1,13 @@
 ## ☺︎  Hello, I’m Polina
 
- Frontend developer
- Hexlet student (frontend 4 module)
- open to work
+ Frontend developer<br>
+ Hexlet student (frontend 4 module)<br>
+ open to work<br>
  
- * HTML/CSS, Javascript, Git, TDD
+ * HTML/CSS, Javascript, Git, TDD<br>
  
 📫 Contact me in [telegram](https://t.me/Pollyaley) <br>
-🤝 let's make a connection in [Linkedin](https://www.linkedin.com/in/polina-gordeeva-frontend/)
+🤝 let's make a connection in [Linkedin](https://www.linkedin.com/in/polina-gordeeva-frontend/)<br>
 
 ### My projects
 
