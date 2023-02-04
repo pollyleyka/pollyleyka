@@ -6,8 +6,8 @@
  
  * HTML/CSS, Javascript, Git, TDD
  
-📫 Contact me in [telegram](https://t.me/Pollyaley)
-let's make a connection on [Linkedin}(https://www.linkedin.com/in/polina-gordeeva-frontend/)
+📫 Contact me in [telegram](https://t.me/Pollyaley) <br>
+🤝 let's make a connection on [Linkedin}(https://www.linkedin.com/in/polina-gordeeva-frontend/)
 
 Now I'm study frontend in [Hexlet](https://ru.hexlet.io) and already done two projects
 
@@ -17,7 +17,7 @@ more details in [repo](https://github.com/pollyleyka/frontend-project-lvl1)
 
 * #### _Difference calculator_
 Is a CLI utility for calculating differences between two data structures.<br>
-more details in [repo](https://github.com/pollyleyka/frontend-project-46)
+more details in [repo](https://github.com/pollyleyka/frontend-project-46)<br>
 
 There are also projects wich I did when I was learning on my own. There are more about HTML/CSS and wisual content on webPages.
 
