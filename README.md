@@ -7,7 +7,9 @@
  * HTML/CSS, Javascript, Git, TDD
  
 📫 Contact me in [telegram](https://t.me/Pollyaley) <br>
-🤝 let's make a connection on [Linkedin}(https://www.linkedin.com/in/polina-gordeeva-frontend/)
+🤝 let's make a connection on [Linkedin](https://www.linkedin.com/in/polina-gordeeva-frontend/)
+
+### My projects
 
 Now I'm study frontend in [Hexlet](https://ru.hexlet.io) and already done two projects
 
