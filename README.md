@@ -7,7 +7,7 @@
  * HTML/CSS, Javascript, Git, TDD
  
 📫 Contact me in [telegram](https://t.me/Pollyaley) <br>
-🤝 let's make a connection on [Linkedin](https://www.linkedin.com/in/polina-gordeeva-frontend/)
+🤝 let's make a connection in [Linkedin](https://www.linkedin.com/in/polina-gordeeva-frontend/)
 
 ### My projects
 
@@ -21,7 +21,7 @@ more details in [repo](https://github.com/pollyleyka/frontend-project-lvl1)
 Is a CLI utility for calculating differences between two data structures.<br>
 more details in [repo](https://github.com/pollyleyka/frontend-project-46)<br>
 
-There are also projects wich I did when I was learning on my own. There are more about HTML/CSS and wisual content on webPages.
+There are also projects wich I did when I was learning on my own. They are more about HTML/CSS and visual content on webPages.
 
 * #### adaptiv-docmed
 Adaptive webpage for Moscow clinic *Docmed*. Using component approach. <br>
