@@ -1,4 +1,4 @@
-## ☺︎  Hello, I’m Polina
+## Hello, I’m Polina
 
  Frontend developer<br>
  Hexlet student (frontend 4 module)<br>
