@@ -11,11 +11,19 @@
 
 ### My projects
 
-Now I'm study frontend in [Hexlet](https://ru.hexlet.io) and already done three projects
+* #### _simplified real-time Chat App_
+simplified Slack-like real-time chat app built using React/Redux, AJAX, REST API, websockets, React (with Hooks), Redux, and Formik <br>
+[repo](https://github.com/pollyleyka/frontend-project-12) <br>
+[Chat app][https://frontend-project-12-jvhm.onrender.com]<br>
 
 * #### _RSS agregator_
 Is a webpage with news agregator.<br>
 more details in [repo](https://github.com/pollyleyka/frontend-project-11)
+
+* #### Circular progress bar component
+Component with simple api. Changing value, have animation and hide mode <br>
+[repo](https://github.com/pollyleyka/circular-progress-bar)<br>
+[DEMO](https://pollyleyka.github.io/circular-progress-bar/)<br>
 
 * #### _Difference calculator_
 Is a CLI utility for calculating differences between two data structures.<br>
